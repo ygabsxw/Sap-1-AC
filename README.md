@@ -10,7 +10,7 @@ Este repositório apresenta um projeto de Arquitetura de Computadores no qual re
 </ul>
 
 
-Essas melhorias ampliam as capacidades do SAP-1 original, proporcionando um entendimento mais profundo sobre a arquitetura e o funcionamento de microprocessadores. O projeto inclui diagramas, código fonte e documentação detalhada para facilitar a compreensão e a replicação das modificações realizadas.
+Essas melhorias ampliam as capacidades do SAP-1 original, proporcionando um entendimento mais profundo sobre a arquitetura e o funcionamento de microprocessadores.
 
 ## Desenvolvedores:
   <ul> 
