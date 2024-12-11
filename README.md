@@ -11,3 +11,11 @@ Este repositório apresenta um projeto de Arquitetura de Computadores no qual re
 
 
 Essas melhorias ampliam as capacidades do SAP-1 original, proporcionando um entendimento mais profundo sobre a arquitetura e o funcionamento de microprocessadores. O projeto inclui diagramas, código fonte e documentação detalhada para facilitar a compreensão e a replicação das modificações realizadas.
+
+## Desenvolvedores:
+  <ul> 
+    <a href="https://github.com/ygabsxw" ><li>Gabriel Diniz Reis Vianna</li></a>
+    <a href="https://github.com/sevak19" ><li>Arthur Costa Serra Negra</li></a>
+    <a href="https://github.com/BernardoPiresMascarenhas" ><li>Bernardo Pires Mascarenhas</li></a>
+    <a href="https://github.com/gabriel-vianna1" ><li>Gabriel Costa Vianna</li></a>
+  </ul>
