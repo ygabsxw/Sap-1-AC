@@ -5,8 +5,8 @@ Este repositório apresenta um projeto de Arquitetura de Computadores no qual re
   <li>Incremento e Decremento: Operações para aumentar ou diminuir o valor dos registradores.</li> 
   <li>Multiplicação e Divisão: Implementação de operações aritméticas avançadas.</li>
   <li>Comparações: Mecanismos para comparar valores e tomar decisões com base nos resultados.</li>
-  <li>Saltos (Jump): Controle de fluxo para permitir a execução condicional de instruções.</li>
-  <li>Salvamento (Save): Função para armazenar estados intermediários do processador.</li>
+  <li>Saltos (Jump): Pula para a instrução desejada.</li>
+  <li>Salvamento (Save): Salva o valor do acumulador na RAM. </li>
 </ul>
 
 
